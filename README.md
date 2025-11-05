@@ -14,9 +14,7 @@ A streamlined Python command-line application for analyzing student performance 
 
 
 ## 📊 Sample Output
-
-
-
+<img width="712" height="850" alt="image" src="https://github.com/user-attachments/assets/e551e945-d823-4894-bc93-73c2e26b120d" />
 
 
 ---
