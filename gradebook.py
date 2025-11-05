@@ -2,11 +2,8 @@ print('''--------------------------------------------------------
 Title      : GradeBook Analyzer
 Course     : Programming for Problem Solving using Python
 Author     : Shubham Halder 
-Date       : 2024-11-03
+Date       : 2025-11-03
 Roll No.   : 2501410002
-Description: CLI-based GradeBook Analyzer that reads student marks
-             from manual input, computes statistics, assigns grades,
-             and displays summaries.
 --------------------------------------------------------''')
 
 # MENU 
@@ -194,3 +191,4 @@ def main():
             print(" Invalid choice! Try again.")
 
 main()
+
